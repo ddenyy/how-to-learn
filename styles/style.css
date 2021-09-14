@@ -297,6 +297,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
+  z-index: 3;
 }
 
 .section-subtitle_theme_dark{
